@@ -5,18 +5,18 @@ menu:
   about: /about
   archives: /archives
   tags: /tags
-  commonweal: /404.html
+  #commonweal: /404.html
 
 # Place your favicon.ico to /source directory.
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,next"
+keywords: "不卜,博客"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Icon fonts
 # Place your font into next/source/fonts, specify directory-name and font-name here
@@ -37,8 +37,7 @@ mathjax:
 
 
 # Schemes
-#scheme: Mist
-
+scheme: Mist
 
 # Sidebar, available value:
 #  - post    expand on posts automatically. Default.
@@ -91,3 +90,16 @@ images: images
 
 # Theme version
 version: 0.4.5.1
+
+
+# 自定义图像
+avatar: http://7xljab.com1.z0.glb.clouddn.com/12395345.jpg
+# 多说
+duoshuo_shortname: roingeek
+#百度分析ID
+baidu_analytics: a1718d105ac5c566eeca9ca427859200
+
+# Social links
+social:
+  GitHub: https://github.com/kuku940
+  ZhiHu: http://www.zhihu.com/people/roingeek
